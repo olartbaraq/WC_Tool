@@ -26,8 +26,6 @@ Part of my attempt at John Crickett's [Coding Chanllenges](https://codingchallen
 
 1. Run the WC Tool :
 
-   - option 1 : run server on default port 6379
-
    ```bash
    go run main.go ccwc [options] [filename]
    ```
